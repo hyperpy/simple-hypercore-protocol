@@ -4,7 +4,7 @@ build-backend = "poetry.masonry.api"
 
 [tool.poetry]
 name = "simple-hypercore-protocol"
-version = "0.1.0"
+version = "0.0.1a2"
 description = "The Hypercore protocol state machine"
 authors = ["decentral1se <hi@decentral1.se>"]
 maintainers = ["decentral1se <hi@decentral1.se>"]
