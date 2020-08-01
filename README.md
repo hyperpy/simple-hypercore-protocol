@@ -18,6 +18,8 @@ from simple_hypercore_protocol import messages
 print(messages.Request(index=0))
 ```
 
+Output:
+
 ```sh
 index: 0
 ```
