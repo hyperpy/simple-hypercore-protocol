@@ -4,6 +4,8 @@
 
 ## The Hypercore protocol state machine
 
+> **Work In Progress**
+
 ## Install
 
 ```sh
