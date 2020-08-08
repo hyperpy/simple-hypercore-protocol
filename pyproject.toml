@@ -21,6 +21,7 @@ protobuf = "^3.12.4"
 black = "^19.10b0"
 flake8 = "^3.8.3"
 isort = "^5.0.2"
+grpcio-tools = "^1.31.0"
 
 [tool.black]
 line-length = 80
